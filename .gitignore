@@ -58,3 +58,7 @@ desktop.ini
 *.log
 tmp/
 temp/
+
+# Projetos separados — não pertencem ao CoreBrain
+promptadores-app/
+promptadores/
